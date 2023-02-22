@@ -13,5 +13,4 @@ test('returns right notification', () => {
   expect(getLatestNotification()).toBe(
     '<strong>Urgent requirement</strong> - complete by EOD'
   );
-  add.add
 });
