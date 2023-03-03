@@ -23,4 +23,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
+* **Izi Martin** - [Izi Martin](https://github.com/izimartin)
