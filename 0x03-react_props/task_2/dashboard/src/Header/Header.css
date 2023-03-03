@@ -1,0 +1,16 @@
+:root {
+    --holberton-red: #e01d3f;
+}
+
+.App-header img {
+    width: 200px;
+}
+
+.App-header {
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+    color: var(--holberton-red);
+    border-bottom: 2px solid var(--holberton-red);
+}
+

@@ -1,0 +1,14 @@
+:root {
+    --holberton-red: #e01d3f;
+}
+
+.App-footer {
+    border-top: 3px solid var(--holberton-red);
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-style: italic;
+    font-weight: 500;
+}
