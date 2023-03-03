@@ -70,4 +70,4 @@ for React subject, log to the console React, set cTeacher as the teacher, call t
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
+* **Izi Martin** - [Izi Martin](https://github.com/izimartin)
