@@ -73,4 +73,4 @@ Import the files that you wrote in the previous task. All the Javascript and Rea
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
+* **Izi Martin** - [Izi Martin](https://github.com/izimartin)
