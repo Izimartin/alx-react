@@ -1,31 +1,12 @@
-  
-:root {
-  --holberton-red: #e01d3f;
-}
-
 .Notifications {
-  border: 3px dashed var(--holberton-red);
-  padding: 10px;
-  margin-bottom: 20px;
+	padding: 1em;
+	border: 2px dashed red;
 }
 
-.Notifications button img {
-  width: 10px;
+ul li[data='default'] {
+	color: blue;
 }
 
-.Notifications p {
-  margin: 0;
-  margin-top: 15px;
-}
-
-[data-priority="default"] {
-  color: blue;
-}
-
-[data-priority="urgent"] {
-  color: red;
-}
-
-label{
-  margin: 0.5em;
+ul li[data='urgent'] {
+	color: red;
 }

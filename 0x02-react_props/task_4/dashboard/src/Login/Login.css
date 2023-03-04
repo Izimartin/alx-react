@@ -1,12 +1,11 @@
-  
-label {
-    padding: 1rem;
-  }
-  
-  label:first-of-type {
-    padding-left: 0;
-  }
-  
-  input + button {
-    margin: 0 2rem;
-  }
+:root {
+    --holberton-red: #e1484c;
+}
+
+.App-body {
+    padding: 36px 24px;
+}
+
+.App-body input {
+    margin: 0 16px 0 8px;
+}
