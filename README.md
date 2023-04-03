@@ -1,2 +1,2 @@
 # alx-react
-alx-react repo
+alx-react repository
